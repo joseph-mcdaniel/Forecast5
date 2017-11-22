@@ -4,7 +4,7 @@ Work in Progress utilizing the OpenWeatherMap [API](https://openweathermap.org/)
 Install dependencies, then start the gulp process with the following:
 
 ```
-> cd Forecast5_react-redux
+> cd Forecast5
 > npm install
 > npm start
 ```
