@@ -3,7 +3,7 @@
 A React + Redux App that displays the five-day forecast of every U.S. city.  
 
 #### Usage
-<p> align="center">
+<p align="center">
   <img src="images/f5_1.gif" alt="f5 gif">
   <img src="images/f5_2.gif" alt="f5 gif">
 </p>
